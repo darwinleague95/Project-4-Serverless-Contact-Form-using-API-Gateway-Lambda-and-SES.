@@ -1,4 +1,4 @@
-# Project-4-Serverless-Contact-Form-using-API-Gateway-Lambda-and-SES.
+# Serverless-Contact-Form-using-API-Gateway-Lambda-and-SES.
 
 ## 📋 Project Overview
 
